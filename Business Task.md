@@ -1,6 +1,8 @@
 # HR-Analytics
 Power BI Analysis and Dashboard
 ## About Dataset:
+[HR_Analytics_Dataset](https://docs.google.com/spreadsheets/d/16hNx5MUuSIrXEslzXgl3icYWDHcekGUFQb7I21Yxh10/edit?usp=sharing)
+
 HR Analytics helps us with interpreting organizational data. It finds the people-related trends in the data and allows the HR Department to take the appropriate steps to keep the organization running smoothly and profitably. Attrition in a corporate setup is one of the complex challenges that the people managers and the HR personnel have to deal with.
 ## Columns in the dataset:
 1. EMPID: Employee ID
